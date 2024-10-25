@@ -5662,12 +5662,6 @@
 		(uuid "1e535696-a288-4ab9-b2b6-9a3ba2474f2a")
 	)
 	(junction
-		(at 107.95 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1e81e895-268f-453c-b396-d32e8614e29e")
-	)
-	(junction
 		(at 246.38 55.88)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5678,24 +5672,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3035f316-d4a3-4f1a-b455-bb77d7d6b4b0")
-	)
-	(junction
-		(at 121.92 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "31c898c4-bf96-46d1-af72-afe9a12bfeb3")
-	)
-	(junction
-		(at 254 247.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "3579cc8f-501d-47a7-86ad-4b5b87788cbc")
-	)
-	(junction
-		(at 138.43 246.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4232e785-4e99-4911-9d46-ad72cd51918f")
 	)
 	(junction
 		(at 209.55 213.36)
@@ -5710,28 +5686,10 @@
 		(uuid "46040920-fd8f-48f1-926c-2b4378ba758a")
 	)
 	(junction
-		(at 135.89 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "476be533-132c-4df5-916e-889bdc5880e1")
-	)
-	(junction
 		(at 387.35 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "479c73e5-3a10-4c27-be5d-b388c0af4ba0")
-	)
-	(junction
-		(at 107.95 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4829cad5-35f1-4c75-8a59-ca33bd2dee36")
-	)
-	(junction
-		(at 71.12 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "4d793e56-c80c-4e2c-b81d-f795ac12c676")
 	)
 	(junction
 		(at 139.7 135.89)
@@ -5744,12 +5702,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a08f94d-989f-46dd-b60c-6c24e3ddbe83")
-	)
-	(junction
-		(at 121.92 27.94)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "77f6e703-79e2-4dbd-b147-6cc2c5a632d6")
 	)
 	(junction
 		(at 85.09 113.03)
@@ -5768,18 +5720,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "859d56d0-69a3-40f5-b6d8-cb10b407e6f4")
-	)
-	(junction
-		(at 193.04 246.38)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "883eb3e4-ab1a-4f6d-a1af-84d8d6cb4f28")
-	)
-	(junction
-		(at 135.89 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "8b297d85-1c9b-447c-a6a7-3815ac8be7f6")
 	)
 	(junction
 		(at 36.83 135.89)
@@ -5806,12 +5746,6 @@
 		(uuid "a200da9c-c189-4081-8415-7f64dee9f9d8")
 	)
 	(junction
-		(at 92.71 20.32)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "a7246a5c-6332-4ff3-a6a8-3a85e4137c89")
-	)
-	(junction
 		(at 48.26 162.56)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -5828,12 +5762,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b29f60b7-c2b1-409e-adbc-2a03be59f84a")
-	)
-	(junction
-		(at 80.01 247.65)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "b7d4ed60-3086-46a1-b42f-184179d24b31")
 	)
 	(junction
 		(at 59.69 143.51)
@@ -5882,12 +5810,6 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f07a8b68-f3d2-4902-a46f-babf6bb64536")
-	)
-	(junction
-		(at 254 187.96)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "f2ccc772-7cc5-4379-94cc-3746c1cc30b8")
 	)
 	(junction
 		(at 400.05 217.17)
@@ -6062,16 +5984,6 @@
 			(type default)
 		)
 		(uuid "05505d31-5d1f-4d60-8fdf-d31da450c77e")
-	)
-	(wire
-		(pts
-			(xy 121.92 27.94) (xy 135.89 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "05a8f3a1-f669-4922-b163-07081b24ef8e")
 	)
 	(wire
 		(pts
@@ -6285,7 +6197,7 @@
 	)
 	(wire
 		(pts
-			(xy 107.95 27.94) (xy 107.95 29.21)
+			(xy 95.25 27.94) (xy 95.25 29.21)
 		)
 		(stroke
 			(width 0)
@@ -6573,16 +6485,6 @@
 		)
 		(uuid "324c7480-9494-47c8-8666-85aa0431af81")
 	)
-	(wire
-		(pts
-			(xy 80.01 247.65) (xy 86.36 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3308f5eb-7039-4724-87c2-a691756f91f9")
-	)
 	(polyline
 		(pts
 			(xy 372.11 203.2) (xy 372.11 116.84)
@@ -6715,16 +6617,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 20.32) (xy 107.95 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "3fea0f35-ced4-4a60-abde-bb56055c0a22")
-	)
-	(wire
-		(pts
 			(xy 313.69 163.83) (xy 321.31 163.83)
 		)
 		(stroke
@@ -6815,26 +6707,6 @@
 	)
 	(wire
 		(pts
-			(xy 254 247.65) (xy 260.35 247.65)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4792f96e-cf67-4ec4-8db3-da84a605e79a")
-	)
-	(wire
-		(pts
-			(xy 138.43 246.38) (xy 144.78 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "48262daa-a2ee-4cca-90e0-a4853dca93f5")
-	)
-	(wire
-		(pts
 			(xy 364.49 212.09) (xy 364.49 217.17)
 		)
 		(stroke
@@ -6852,16 +6724,6 @@
 			(type default)
 		)
 		(uuid "4b6b4493-5f6c-4aa0-8b27-81326c3b71e2")
-	)
-	(wire
-		(pts
-			(xy 135.89 27.94) (xy 151.13 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "4c6d7bfd-8ad5-4063-aa6f-93a6ae513265")
 	)
 	(wire
 		(pts
@@ -6932,16 +6794,6 @@
 			(type default)
 		)
 		(uuid "5169c0f0-892c-4e81-bcd2-f10eaed08b4a")
-	)
-	(wire
-		(pts
-			(xy 193.04 246.38) (xy 199.39 246.38)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "51d24900-1b02-4c42-acc7-8a98e13e4423")
 	)
 	(wire
 		(pts
@@ -7083,16 +6935,6 @@
 		)
 		(uuid "6372de73-09a7-441a-8e82-2c78b250a1ba")
 	)
-	(wire
-		(pts
-			(xy 254 187.96) (xy 260.35 187.96)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "64192f8f-2a74-41fc-b801-b7a3a78bcfe2")
-	)
 	(polyline
 		(pts
 			(xy 172.72 20.32) (xy 264.16 20.32)
@@ -7152,16 +6994,6 @@
 			(type default)
 		)
 		(uuid "698b9c54-e6ee-47e8-8b98-a99cfaabe886")
-	)
-	(wire
-		(pts
-			(xy 107.95 20.32) (xy 121.92 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6c189908-d7a4-4f54-96db-157ee2c22e8e")
 	)
 	(wire
 		(pts
@@ -7535,16 +7367,6 @@
 	)
 	(wire
 		(pts
-			(xy 121.92 20.32) (xy 135.89 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "91a44f91-e60d-45c2-8156-e4b6f2de3a86")
-	)
-	(wire
-		(pts
 			(xy 208.28 153.67) (xy 209.55 153.67)
 		)
 		(stroke
@@ -7562,16 +7384,6 @@
 			(type default)
 		)
 		(uuid "91fee99a-5338-4b56-9bd1-e47ef7938bea")
-	)
-	(wire
-		(pts
-			(xy 107.95 27.94) (xy 121.92 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "94881678-cc92-483a-a3be-98008f17ddc9")
 	)
 	(wire
 		(pts
@@ -7975,16 +7787,6 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 20.32) (xy 71.12 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b7b6ef34-afa4-4402-953a-5f8bdcf0c5a8")
-	)
-	(wire
-		(pts
 			(xy 223.52 149.86) (xy 254 149.86)
 		)
 		(stroke
@@ -8085,16 +7887,6 @@
 	)
 	(wire
 		(pts
-			(xy 92.71 27.94) (xy 107.95 27.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c4d1318f-e277-4fad-9bcd-29a431fc1f9c")
-	)
-	(wire
-		(pts
 			(xy 387.35 48.26) (xy 394.97 48.26)
 		)
 		(stroke
@@ -8145,7 +7937,7 @@
 	)
 	(wire
 		(pts
-			(xy 81.28 20.32) (xy 92.71 20.32)
+			(xy 81.28 20.32) (xy 95.25 20.32)
 		)
 		(stroke
 			(width 0)
@@ -8202,16 +7994,6 @@
 			(type default)
 		)
 		(uuid "d06631cc-145d-4672-89cf-b65818315391")
-	)
-	(wire
-		(pts
-			(xy 135.89 20.32) (xy 151.13 20.32)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "d161894f-c73f-4c61-a95c-0cffbdb8895b")
 	)
 	(wire
 		(pts
@@ -11527,76 +11309,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 199.39 250.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "0f00a310-008b-4dc0-8fbf-f43872f691f4")
-		(property "Reference" "C24"
-			(at 203.2 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.01uF"
-			(at 203.2 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 200.3552 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 199.39 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "72fa4919-43c7-487a-9e7c-518e74440262")
-		)
-		(pin "2"
-			(uuid "bc093ae5-d49e-43bd-8c5f-e72892697353")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C24")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Transistor_FET:VNP10N07")
 		(at 297.18 81.28 0)
 		(unit 1)
@@ -12208,76 +11920,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 144.78 250.19 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "1de71bee-5663-4a88-bca9-c2c9d154e220")
-		(property "Reference" "C13"
-			(at 148.59 248.92 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.01uF"
-			(at 148.59 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 145.7452 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 144.78 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1f9c0904-64cd-4a31-96cc-9d413ac8ac1d")
-		)
-		(pin "2"
-			(uuid "0b924d31-ffb8-481f-b694-8f0b490d08d0")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C13")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:Crystal")
 		(at 38.1 59.69 90)
 		(unit 1)
@@ -12562,76 +12204,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 260.35 191.77 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2bf55ac0-53ea-466f-b30a-bb987a038a3c")
-		(property "Reference" "C30"
-			(at 264.16 190.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.01uF"
-			(at 264.16 193.04 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 261.3152 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 260.35 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 260.35 191.77 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "73183879-f5fa-4266-9450-83ca72065321")
-		)
-		(pin "2"
-			(uuid "f361c791-32bc-40f4-b905-6b8ee2309c6b")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C30")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:GND")
 		(at 292.1 72.39 0)
 		(unit 1)
@@ -12762,73 +12334,6 @@
 			(project "TIME II PCB"
 				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
 					(reference "R9")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "GND_4")
-		(lib_id "power:GND")
-		(at 260.35 255.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "2ed3158f-8c9d-4072-8377-a4c08ebdf6c0")
-		(property "Reference" "#PWR050"
-			(at 260.35 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 260.35 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 260.35 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 260.35 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 260.35 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dc9d6c44-8260-4c9e-9d9e-8874ce0c5939")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "#PWR050")
 					(unit 1)
 				)
 			)
@@ -13332,73 +12837,6 @@
 	(symbol
 		(lib_name "GND_4")
 		(lib_id "power:GND")
-		(at 260.35 195.58 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "3ba547e6-b301-40d9-b268-71fac84a3d36")
-		(property "Reference" "#PWR054"
-			(at 260.35 201.93 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 260.35 200.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 260.35 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 260.35 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 260.35 195.58 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "f8254bf2-abe3-453e-8ebd-171a750d3681")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "#PWR054")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "GND_4")
-		(lib_id "power:GND")
 		(at 162.56 246.38 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -13599,7 +13037,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 60.96 24.13 0)
+		(at 71.12 24.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13608,7 +13046,7 @@
 		(fields_autoplaced yes)
 		(uuid "3e31bbf1-d6b9-43f7-baf3-78026a5c5956")
 		(property "Reference" "C8"
-			(at 64.77 22.86 0)
+			(at 74.93 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13617,7 +13055,7 @@
 			)
 		)
 		(property "Value" "10uF"
-			(at 64.77 25.4 0)
+			(at 74.93 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13626,7 +13064,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 61.9252 27.94 0)
+			(at 72.0852 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13635,7 +13073,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 60.96 24.13 0)
+			(at 71.12 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13644,7 +13082,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 24.13 0)
+			(at 71.12 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13807,76 +13245,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 71.12 24.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "43f8cda7-c10e-4564-b2e9-98ecc1b21018")
-		(property "Reference" "C1"
-			(at 74.93 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 74.93 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 72.0852 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 71.12 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 71.12 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "0f551e1d-c898-4516-89d3-d201daf1acc5")
-		)
-		(pin "2"
-			(uuid "0c61d70f-bee7-4e5d-97f5-89084f760901")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "GND_4")
 		(lib_id "power:GND")
 		(at 132.08 255.27 0)
@@ -14016,7 +13384,7 @@
 	(symbol
 		(lib_name "GND_7")
 		(lib_id "power:GND")
-		(at 107.95 29.21 0)
+		(at 95.25 29.21 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14025,7 +13393,7 @@
 		(fields_autoplaced yes)
 		(uuid "488943ba-e29a-4a39-82b3-dcf161f903ef")
 		(property "Reference" "#PWR03"
-			(at 107.95 35.56 0)
+			(at 95.25 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14034,7 +13402,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 107.95 33.655 0)
+			(at 95.25 33.655 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14042,7 +13410,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 107.95 29.21 0)
+			(at 95.25 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14051,7 +13419,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 107.95 29.21 0)
+			(at 95.25 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14060,7 +13428,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 107.95 29.21 0)
+			(at 95.25 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14342,76 +13710,6 @@
 			(project "TIME II PCB"
 				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 86.36 251.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "4c4a7b9f-b470-4ed9-b90b-1672a8a0e67d")
-		(property "Reference" "C18"
-			(at 90.17 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.01uF"
-			(at 90.17 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 87.3252 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 86.36 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 86.36 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "a5ded25d-8b67-46d8-8431-dce41fc4eb24")
-		)
-		(pin "2"
-			(uuid "96c4a014-2092-4cc7-9473-564814012e71")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C18")
 					(unit 1)
 				)
 			)
@@ -14972,73 +14270,6 @@
 			(project "TIME II PCB"
 				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
 					(reference "#PWR026")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "GND_7")
-		(lib_id "power:GND")
-		(at 71.12 27.94 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "61a68e47-4b2f-4c53-afc7-ba99184c7ac3")
-		(property "Reference" "#PWR01"
-			(at 71.12 34.29 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 71.12 32.385 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 71.12 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 71.12 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 71.12 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ea8a6837-314a-4eb8-89aa-db9828ee93b8")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "#PWR01")
 					(unit 1)
 				)
 			)
@@ -15682,76 +14913,6 @@
 			(project "TIME II PCB"
 				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
 					(reference "U4")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 121.92 24.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "71ef49c1-bfd7-4ca5-b934-47c2a26b91aa")
-		(property "Reference" "C4"
-			(at 125.73 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 125.73 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 122.8852 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 121.92 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 121.92 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "1e008ae6-c485-4c7a-9ddc-b5716608ea88")
-		)
-		(pin "2"
-			(uuid "58008c5e-b946-4b9e-aa2e-4b188582160c")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C4")
 					(unit 1)
 				)
 			)
@@ -16668,76 +15829,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 135.89 24.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "8d5e9409-a07f-408a-a972-7340e2d07dd8")
-		(property "Reference" "C5"
-			(at 139.7 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 139.7 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 136.8552 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 135.89 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 135.89 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "89abc3a9-abb4-42f4-9afc-b4c5f59aa2c0")
-		)
-		(pin "2"
-			(uuid "e41a6fe7-0137-4fab-9cb7-78a4f67dd08d")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C5")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 247.65 191.77 0)
 		(unit 1)
 		(exclude_from_sim no)
@@ -17215,7 +16306,7 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 107.95 24.13 0)
+		(at 95.25 24.13 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -17224,7 +16315,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac89329b-07c5-4654-979e-6afb23162abd")
 		(property "Reference" "C3"
-			(at 111.76 22.86 0)
+			(at 99.06 22.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17232,8 +16323,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "100nF"
-			(at 111.76 25.4 0)
+		(property "Value" "0.47uF"
+			(at 99.06 25.3999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17242,7 +16333,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 108.9152 27.94 0)
+			(at 96.2152 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17251,7 +16342,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 107.95 24.13 0)
+			(at 95.25 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17260,7 +16351,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 107.95 24.13 0)
+			(at 95.25 24.13 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17582,76 +16673,6 @@
 			(project "TIME II PCB"
 				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
 					(reference "U2")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 92.71 24.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "b329691d-1337-4d77-ad9a-978501929095")
-		(property "Reference" "C2"
-			(at 96.52 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "100nF"
-			(at 96.52 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 93.6752 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 92.71 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 92.71 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "c043039f-fa2e-41dc-bc7b-73584ca04269")
-		)
-		(pin "2"
-			(uuid "ba8a7d1f-6203-4321-92f6-3ef2838b9536")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C2")
 					(unit 1)
 				)
 			)
@@ -18786,140 +17807,6 @@
 		)
 	)
 	(symbol
-		(lib_name "GND_4")
-		(lib_id "power:GND")
-		(at 144.78 254 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d87c79af-7841-4006-a897-8effe7c61f9f")
-		(property "Reference" "#PWR040"
-			(at 144.78 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 144.78 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 144.78 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 144.78 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 144.78 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "ad49a041-bd7d-486e-8359-e09acf1e892c")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "#PWR040")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "GND_4")
-		(lib_id "power:GND")
-		(at 199.39 254 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d97714c2-7445-4b98-8397-5842ab668789")
-		(property "Reference" "#PWR046"
-			(at 199.39 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 199.39 259.08 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 199.39 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 199.39 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 199.39 254 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "6e09b690-be52-4f3f-aacd-1fd000da373a")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "#PWR046")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:C")
 		(at 132.08 250.19 0)
 		(unit 1)
@@ -19252,76 +18139,6 @@
 			(project "TIME II PCB"
 				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
 					(reference "R13.1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
-		(at 260.35 251.46 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "ea802951-b7e2-409d-bc64-3e1fefea33cc")
-		(property "Reference" "C27"
-			(at 264.16 250.19 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "0.01uF"
-			(at 264.16 252.73 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 261.3152 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 260.35 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 260.35 251.46 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fd039933-c021-46ba-ab5d-834a1d44c8a6")
-		)
-		(pin "2"
-			(uuid "31c0a58d-9c3f-461b-8f8a-3eb128cabed5")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C27")
 					(unit 1)
 				)
 			)
@@ -19900,76 +18717,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:C")
-		(at 151.13 24.13 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f0b64d63-8223-4580-8683-609c63674825")
-		(property "Reference" "C6"
-			(at 154.94 22.86 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "10nF"
-			(at 154.94 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
-			(at 152.0952 27.94 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 151.13 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 151.13 24.13 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "dd66c8f1-ddfe-4872-b54e-fe0e2f3728d6")
-		)
-		(pin "2"
-			(uuid "5897e7fc-b839-45f5-be98-c192b2d71f7b")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "C6")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_name "GND_7")
 		(lib_id "power:GND")
 		(at 21.59 64.77 0)
@@ -20109,7 +18856,7 @@
 	(symbol
 		(lib_name "GND_7")
 		(lib_id "power:GND")
-		(at 60.96 27.94 0)
+		(at 71.12 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -20118,7 +18865,7 @@
 		(fields_autoplaced yes)
 		(uuid "f26e11bd-ef88-448d-904a-6e1132ce82ca")
 		(property "Reference" "#PWR04"
-			(at 60.96 34.29 0)
+			(at 71.12 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20127,7 +18874,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 60.96 32.385 0)
+			(at 71.12 32.385 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20135,7 +18882,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 60.96 27.94 0)
+			(at 71.12 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20144,7 +18891,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 60.96 27.94 0)
+			(at 71.12 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20153,7 +18900,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 60.96 27.94 0)
+			(at 71.12 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20236,73 +18983,6 @@
 			(project "TIME II PCB"
 				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
 					(reference "R1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_name "GND_4")
-		(lib_id "power:GND")
-		(at 86.36 255.27 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f4416145-acf5-41ef-a0ed-328868ffc0fb")
-		(property "Reference" "#PWR033"
-			(at 86.36 261.62 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 86.36 260.35 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 86.36 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 86.36 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" ""
-			(at 86.36 255.27 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "fcb5730b-c1be-485f-8872-2187e704844c")
-		)
-		(instances
-			(project "TIME II PCB"
-				(path "/ada74dd6-9313-41da-aa43-aea44c6d55c8"
-					(reference "#PWR033")
 					(unit 1)
 				)
 			)
